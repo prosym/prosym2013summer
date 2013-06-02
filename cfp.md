@@ -8,8 +8,8 @@
 * 2013年 8月25日(日) 10:00～20:30(予定)
 
 ### 場所
-* [株式会社ドリコム プレゼンテーションルーム](http://www.drecom.co.jp/company/accessmap/)
-* 東京都目黒区下目黒1丁目8-1　アルコタワー17F
+* [株式会社ドリコム](http://www.drecom.co.jp/company/accessmap/)　[プレゼンテーションルーム](http://www.drecom.co.jp/recruit/room/)
+* 東京都目黒区下目黒1丁目8-1　アルコタワー17F [(google map)](https://maps.google.co.jp/maps?f=q&source=embed&hl=ja&geocode=&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%8B%E7%9B%AE%E9%BB%921%E4%B8%81%E7%9B%AE8-1&aq=&sll=35.632078,139.713348&sspn=0.009897,0.015718&brcurrent=3,0x60188b1f1bf66563:0x353f57f5f131180a,0&ie=UTF8&hq=&hnear=%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%9B%AE%E9%BB%92%E5%8C%BA%E4%B8%8B%E7%9B%AE%E9%BB%92%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%98%E2%88%92%EF%BC%91&t=m&ll=35.632117,139.713306&spn=0.028044,0.05682&z=14&iwloc=A)
 
 ### 費用
 * 参加費無料
